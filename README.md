@@ -2,7 +2,7 @@
 **Termux Aoi.JS Botudur, İstediğiniz Gibi Kurulum Gerçekleştirebilirsiniz.**
 **Bot Sürümü: v6.8.5**
 
-# 🎄 TERMUX KURULUN
+# 🎄 TERMUX KURULUM
 `$ pkg install git`
 
 `$ pkg install nodejs`
