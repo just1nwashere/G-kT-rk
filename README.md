@@ -13,6 +13,6 @@
 
 `$ npm install` **< Yazarak Modülleri Sorunsuz Şekilde İndirebilirsiniz.**
 
-`$ nano bot.js` **< Yazarak Botun Token & MongoDB URLsini Değiştirebilirsiniz.**
+`$ nano ./src/handler/bot.js` **< Yazarak Botun Token & MongoDB URLsini Değiştirebilirsiniz.**
 
 `$ node just.js` **< Yazarak Botu Başlatabilirsiniz, Veya "node ." Yazarakta Başlatabilirsiniz.**
